@@ -1,5 +1,5 @@
 # PG-paper-2022
-Short scripts used to reproduce article
+This repository contains some notebooks that are relevant for the paper
 
   - M Mortensen, "A generic and strictly banded spectral Petrov-Galerkin method for differential equations with polynomial coefficients"
 
