@@ -4,3 +4,4 @@ channels:
 dependencies:
   - shenfun ==4.0.1
   - matplotlib
+  - jupyter_contrib_nbextensions
