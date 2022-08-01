@@ -2,6 +2,6 @@ name: shenfun
 channels:
   - conda-forge
 dependencies:
-  - shenfun ==4.0.1
+  - shenfun ==4.0.2
   - matplotlib
   - jupyter_contrib_nbextensions
