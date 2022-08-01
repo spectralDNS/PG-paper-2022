@@ -11,4 +11,4 @@ To run the jupyter notebooks in the binder folder just press the button (this ma
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/spectralDNS/PG-paper-2022/main?labpath=binder) (JupyterLab)
 
-Or just download the files and run them in your own environment, which need to contain shenfun version 4.0.1 or newer. See binder/environment.yml.
+Or just download the files and run them in your own environment, which need to contain shenfun version 4.0.2 or newer. See binder/environment.yml.
