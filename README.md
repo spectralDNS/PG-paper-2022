@@ -3,7 +3,7 @@ This repository contains some notebooks that are relevant for the paper
 
   - M Mortensen, "A generic and strictly banded spectral Petrov-Galerkin method for differential equations with polynomial coefficients"
 
-A preprint is included in [PGpaper.pdf](PGpaper.pdf).
+An author's accepted preprint is included in [PGpaper.pdf](PGpaper.pdf). The paper was accepted for publication in SIAM Journal on Scientific Computing 30/8 2022.
 
 To run the jupyter notebooks in the binder folder just press the button (this may take up to 5-10 minutes to build the environment):
 
